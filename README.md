@@ -1,11 +1,11 @@
-# Poster sessions
+## Poster sessions
 
 There are two poster sessions:
 
 1. Session 1 on Monday, 21st June (11:30 am to 12:30 pm);
 1. Session 2 on Tueasday, 22nd June (11:30 am to 12:30 pm).
 
-## Session 1
+### Session 1
 
 - (*Poster 3*) ADAPT: Awesome Domain Adaptation Python Toolbox. **Antoine de Mathelin.**
 - (*Poster 4*) Offline detection of change-points for stationary graph signals. **Alejandro de la Concha.**
@@ -15,7 +15,7 @@ There are two poster sessions:
 - (*Poster 10*) On using self-sustained events for stochastic waveform modelling with deep neural networks. **Xavier Cassagnou.**
 - (*Poster 11*) Weighting Schemes for Federated Learning. **Marie Garin.**
 
-## Session 2
+### Session 2
 - (*Poster 1*) Detecting inference attacks involving raw sensor data. **Paul Lachat.**
 - (*Poster 2*) Contra – unified privacy preferences. **Stefan Becher.**
 - (*Poster 8*) Fantastic figures and how to find them. **Ramona Kühn.**
