@@ -1,3 +1,6 @@
-# French-German Summerschool on Artificial Intelligence with Industry 2021
+## Poster session 1
 
-Posters of the French-German Summerschool on Artificial Intelligence with Industry 2021, organized by ENS Paris-Saclay and Passau University.
+- Offline detection of change-points for stationary graph signals. **Alejandro de la Concha**
+
+
+## Poster session 2
