@@ -1,6 +1,4 @@
----
-title: French-German Summer School on AI with Industry 2021
----
+# French-German Summer School on AI with Industry 2021
 
 ## Poster sessions
 
