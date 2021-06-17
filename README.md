@@ -5,7 +5,7 @@
 There are two poster sessions:
 
 1. Session 1 on Monday, 21st June (11:30 am to 12:30 pm);
-1. Session 2 on Tueasday, 22nd June (11:30 am to 12:30 pm).
+1. Session 2 on Tuesday, 22nd June (11:30 am to 12:30 pm).
 
 ## Session 1
 
