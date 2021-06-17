@@ -1,4 +1,4 @@
-# List of posters
+## French-German Summer School on AI with Industry 2021
 
 There are two poster sessions:
 
