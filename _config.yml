@@ -1,2 +1,4 @@
 title: French-German Summer School on AI with Industry 2021
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-titles-from-headings
