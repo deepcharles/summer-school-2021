@@ -23,4 +23,5 @@ There are two poster sessions:
 - (*Poster 8*) Fantastic figures and how to find them. **Ramona Kühn.**
 - (*Poster 9*) Analysis of a German legal citation network. **Tobias Milz.**
 - (*Poster 12*) Investigating the perceived and real usability of voice assistants among elderly people. **Jakob Dietmar.**
-- (*Poster 13*) Motif-detection based non-intrusive load monitoring for human activity detection. **Sebastian Wilhelm.**
+- (*Poster 13*) A stacking approach for cross-domain argument. **Alaa Alhamzeh.**
+- (*Poster 14*) Motif-detection based non-intrusive load monitoring for human activity detection. **Sebastian Wilhelm.**
