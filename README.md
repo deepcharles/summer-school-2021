@@ -16,6 +16,9 @@ There are two poster sessions:
 - (*Poster 7*) Symbolic Aggregate approXimation (SAX): a symbolic representation for time series. **Sylvain W. Combettes.**
 - (*Poster 10*) On using self-sustained events for stochastic waveform modelling with deep neural networks. **Xavier Cassagnou.**
 - (*Poster 11*) Weighting Schemes for Federated Learning. **Marie Garin.**
+- (*Poster 15*) Implementation and calibration of neural decision trees. **Anthea Mérida Montes de Oca.**
+- (*Poster 16*) Containing disease propagation in micro-communities under operationality-preserving constraints **Martin Graive.**
+
 
 ## Session 2
 - (*Poster 1*) Detecting inference attacks involving raw sensor data. **Paul Lachat.**
