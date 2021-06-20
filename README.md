@@ -15,7 +15,7 @@ There are two poster sessions:
 - (*Poster 6*) Physics-informed deep learning: towards tire simulations. **Thi Nguyen Khoa Nguyen.**
 - (*Poster 7*) Symbolic Aggregate approXimation (SAX): a symbolic representation for time series. **Sylvain W. Combettes.**
 - (*Poster 10*) On using self-sustained events for stochastic waveform modelling with deep neural networks. **Xavier Cassagnou.**
-- (*Poster 11*) Weighting Schemes for Federated Learning. **Marie Garin.**
+- (*Poster 11*) Weighting schemes for federated learning. **Marie Garin.**
 - (*Poster 15*) Implementation and calibration of neural decision trees. **Anthea Mérida Montes de Oca.**
 - (*Poster 16*) Containing disease propagation in micro-communities under operationality-preserving constraints. **Martin Graive.**
 
