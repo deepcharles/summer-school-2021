@@ -9,7 +9,6 @@ There are two poster sessions:
 
 ## Session 1
 
-- (*Poster 3*) ADAPT: Awesome Domain Adaptation Python Toolbox. **Antoine de Mathelin.**
 - (*Poster 4*) Offline detection of change-points for stationary graph signals. **Alejandro de la Concha.**
 - (*Poster 5*) NAG: Neural feature aggregation framework for credit card fraud detection. **Kanishka Ghosh Dastidar.**
 - (*Poster 6*) Physics-informed deep learning: towards tire simulations. **Thi Nguyen Khoa Nguyen.**
@@ -23,6 +22,7 @@ There are two poster sessions:
 ## Session 2
 - (*Poster 1*) Detecting inference attacks involving raw sensor data. **Paul Lachat.**
 - (*Poster 2*) Contra – unified privacy preferences. **Stefan Becher.**
+- (*Poster 3*) ADAPT: Awesome Domain Adaptation Python Toolbox. **Antoine de Mathelin.**
 - (*Poster 8*) Fantastic figures and how to find them. **Ramona Kühn.**
 - (*Poster 9*) Analysis of a German legal citation network. **Tobias Milz.**
 - (*Poster 12*) Investigating the perceived and real usability of voice assistants among elderly people. **Jakob Dietmar.**
